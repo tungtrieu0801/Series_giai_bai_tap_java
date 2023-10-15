@@ -14,3 +14,4 @@ public class main {
 		sc.close();
 	}
 }
+//bai_6
